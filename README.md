@@ -20,4 +20,4 @@ npm run build
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-![alt tag](videoinfo/news.gif)
+![alt tag](/news.gif)
